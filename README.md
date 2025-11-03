@@ -14,6 +14,6 @@
                let angka = [1, 2, 3];
                angka.push(7);
                console.log(angka); // [1,2,3,4,5,6,7]
-6. Untuk menampilkan data tertentu,dapat digunakan perulangan
-7. Tidak menuliskan tanda kurung saat memanggil array
+   Untuk menampilkan data tertentu,dapat digunakan perulangan
+5. Tidak menuliskan tanda kurung saat memanggil array
    lupa jika indeks itu mulai nya dari 0
