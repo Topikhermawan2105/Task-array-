@@ -1,7 +1,7 @@
 1. kalau punya banyak data,misalnya daftar nama siswa, nilai ujian.Array itu kayak wadah besar yang bisa nyimpan data        itu sekaligus.
       Misalnya saya di suruh bikin variabel satu persatu contoh nya nilai1,nilai3,nilai4,nilai5, sampe 100 atau lebi,nah        array bisa mempersingkat waktu nya atau mempermudah ,saya cuman perlu nama (array) buat ngurusin semua datanya 
-2. Array menghemat variabel karena dia mengelompokkan banyak variabel.                                                                          Tanpa Array butuh 10 variabel 
-                      menggunakan Array cuma butuh satu variabel
+2. Array menghemat variabel karena dia mengelompokkan banyak variabel.                                                                                               Tanpa Array butuh 10 variabel 
+                                           menggunakan Array cuma butuh satu variabel
 
              tanpa array:
                let nilai1 = 20;
