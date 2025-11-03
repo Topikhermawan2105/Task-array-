@@ -17,4 +17,4 @@
 
 4. Untuk menampilkan data tertentu,dapat digunakan perulangan
 5. Tidak menuliskan tanda kurung saat memanggil array
-         lupa jika indeks itu mulai nya dari 0
+        atau lupa jika indeks itu mulai nya dari 0
