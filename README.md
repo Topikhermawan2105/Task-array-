@@ -3,16 +3,17 @@
 2.     Array menghemat variabel karena dia mengelompokkan banyak variabel
        Tanpa Array butuh 10 variabel 
        menggunakan Array cuma butuh satu variabel
-                    tanpa array:
+
+             tanpa array:
                let nilai1 = 20;
                let nilai2 = 25;
                let nilai3 = 30;
-                  menggunakan array:
+             menggunakan array:
                let nilai = [20,25,30];
-3. Ketika data bertambah,array akan menyesuaikan
+4. Ketika data bertambah,array akan menyesuaikan
    let angka = [1, 2, 3];
    angka.push(7);
-   console.log(angka); // [1,2,3,4,5,6,7]
-4. Untuk menampilkan data tertentu,dapat digunakan perulangan
-5. Tidak menuliskan tanda kurung saat memanggil array
+              console.log(angka); // [1,2,3,4,5,6,7]
+5. Untuk menampilkan data tertentu,dapat digunakan perulangan
+6. Tidak menuliskan tanda kurung saat memanggil array
    lupa jika indeks itu mulai nya dari 0
