@@ -9,11 +9,12 @@
                let nilai3 = 30;
              menggunakan array:
                let nilai = [20,25,30];
-4. Ketika data bertambah,array akan menyesuaikan
-5. 
+3. Ketika data bertambah,array akan menyesuaikan
+  
                let angka = [1, 2, 3];
                angka.push(7);
                console.log(angka); // [1,2,3,4,5,6,7]
-   Untuk menampilkan data tertentu,dapat digunakan perulangan
+
+4. Untuk menampilkan data tertentu,dapat digunakan perulangan
 5. Tidak menuliskan tanda kurung saat memanggil array
    lupa jika indeks itu mulai nya dari 0
