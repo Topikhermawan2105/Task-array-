@@ -3,12 +3,12 @@
 2. Array menghemat variabel karena dia mengelompokkan banyak variabel
      Tanpa Array butuh 10 variabel 
      menggunakan Array cuma butuh satu variabel
-           tanpa array:
-         let nilai1 = 20;
-         let nilai2 = 25;
-         let nilai3 = 30;
-          menggunakan array:
-         let nilai = [20,25,30];
+                   tanpa array:
+               let nilai1 = 20;
+               let nilai2 = 25;
+               let nilai3 = 30;
+                  menggunakan array:
+               let nilai = [20,25,30];
 3. Ketika data bertambah,array akan menyesuaikan
    let angka = [1, 2, 3];
    angka.push(7);
